@@ -226,6 +226,13 @@
             </list>
           </value>
         </entry>
+        <entry key="get_it">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/get_it-7.6.4/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="glob">
           <value>
             <list>
@@ -265,6 +272,20 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="injectable">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/injectable-2.3.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="injectable_generator">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/injectable_generator-2.4.1/lib" />
             </list>
           </value>
         </entry>
@@ -694,12 +715,15 @@
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/fixnum-1.1.0/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/frontend_server_client-3.2.0/lib" />
+      <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/get_it-7.6.4/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/glob-2.1.2/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/graphs-2.3.1/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/hotreloader-3.0.6/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/http_methods-1.1.1/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/http_multi_server-3.2.1/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/injectable-2.3.2/lib" />
+      <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/injectable_generator-2.4.1/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/io-1.0.4/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7/lib" />
       <root url="file://$PROJECT_DIR$/../AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.8.1/lib" />
